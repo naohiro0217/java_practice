@@ -1,4 +1,5 @@
 public class ファイル名{
+
   public static void main(String[] args) {
 
   }
@@ -8,4 +9,5 @@ public class ファイル名{
   System.out.println();
 
   javac ファイル名.javaでclassファイル作成
+  
   java ファイル名で実行
