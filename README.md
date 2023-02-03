@@ -11,3 +11,5 @@ public class ファイル名{
   javac ファイル名.javaでclassファイル作成
   
   java ファイル名で実行
+  
+  ifとswitchは
